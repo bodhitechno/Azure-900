@@ -1,0 +1,42 @@
+Steps to create cloud academi account:
+
+Step 1:Open Chrome->open cloud academi site->https://cloudacademy.com/
+Step 2:Click on start free trial.
+Step 3:sign with gmail-> Fill the free trail form(name,email,password)-> click on create acoount->login.
+Step4: Open Cloud academy dashboard.
+Step 5:Click on free courses->click on free training->free content->Hands on lab->Start hands on practical
+
+##########################################################################################
+Login Steps to do practicals in microsoft docs.
+step 1:open chrome->search az-204->https://docs.microsoft.com/en-us/learn/
+step 2:search module exersises->->activate sandbox
+###########################################################################################
+Practicals Link:
+#########################################################################################
+
+practical 1:
+https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/exercise-create-sql-database
+############################################
+practical 2:
+https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/3-create-an-azure-functions-app-in-the-azure-portal?pivots=javascript
+##################################################
+practical 3:
+https://docs.microsoft.com/en-us/learn/modules/describe-core-architectural-components-of-azure/4-exercise-explore-learn-sandbox
+####################################################
+practical 4:
+https://docs.microsoft.com/en-us/learn/modules/describe-core-architectural-components-of-azure/7-exercise-create-azure-resource
+###################################################################
+practical no 5:
+https://docs.microsoft.com/en-us/learn/modules/describe-cost-management-azure/4-exercise-estimate-workload-costs-use-pricing-calculator
+############################################################################
+practical no 6:
+https://docs.microsoft.com/en-us/learn/modules/describe-cost-management-azure/5-exercise-compare-workload-costs-use-total-cost-ownership-calculator
+############################################################
+practical no 7:
+https://docs.microsoft.com/en-us/learn/modules/describe-azure-compute-networking-services/
+########################################################################
+practical no 8:
+https://docs.microsoft.com/en-us/learn/modules/describe-azure-storage-services/
+#################################################################################
+
+

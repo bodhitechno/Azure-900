@@ -1,0 +1,4 @@
+References:
+1. https://azure.microsoft.com/en-in/virtual-machines-demo/on-demand/
+2. https://www.javatpoint.com/microsoft-azure
+3. https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/
